@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+#btn{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius:5px ;
+    
+
+}
+.lb{
+    font-size: 3em;
+    
+}
